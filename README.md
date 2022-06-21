@@ -1,10 +1,15 @@
-### 🖖 Hello
+#Hi, i'm Stefano 👋
+[![Website](https://img.shields.io/website?label=stef.tk&style=for-the-badge&url=https%3A%2F%2Fstef.tk](https://stef.tk))
 
-## I'm Stefano, a 𝗟𝗶𝘁𝘁𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+##I'm a Student and Developers!
 
-- 👨‍💻 I'm a developer
-- 🧡 I'm working on [Plenus](https://github.com/ApexieCommunity/Plenus)
+- 🔎 Check my bot Telegram: [RetniNet][retninet]
+- 📚 I'm currently learn Python
+- 💗 I like programming and play videogames.
 
-### 📱 Contact Me!
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/95H7MySdHh)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://mailhide.io/e/mFtWxPfo)
+##Connect with me:
+[![website](./img/website.svg)](https://stef.tk)
+[![website](./img/instagram-dark.svg)](https://instagram.com/assenzo.stefano)
+
+
+[retninet]: https://github.com/assenzostefano/retninet
