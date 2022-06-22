@@ -1,16 +1,20 @@
-####Hi, i'm Stefano 👋
-[![Website](https://img.shields.io/website?label=stef.tk&style=for-the-badge&url=https%3A%2F%2Fstef.tk](https://stef.tk))
+**Hi, i'm Stefano 👋**
 
-####I'm a Student and Developers!
+![Website](https://img.shields.io/website?label=stef.tk&style=for-the-badge&url=https%3A%2F%2Fstef.tk](http://stef.tk))
 
-- 🔎 Check my bot Telegram: [RetniNet][retninet]
-- 📚 I'm currently learn Python
-- 💗 I like programming and play videogames.
+**I'm a Student and Developers!**
 
-####Connect with me:
-[![website](./img/website.svg)](https://stef.tk)
-[![website](./img/instagram-dark.svg)](https://instagram.com/assenzo.stefano)
+ - 🔎 Check my bot Telegram: [RetniNet](https://github.com/assenzostefano/retninet)
+ - 📚 I'm currently learn [Python](https://python.org)
+ - 👍 I like programming and play videogames.
+ 
+**Connect with me:**
 
+[<img align="left" alt="Website" width="22px" src="images/internet.svg" />](https://stef.tk)
+[<img align="left" alt="Email" width="22px" src="images/email.svg" />](https://mailhide.io/e/mFtWxPfo)
+[<img align="left" alt="Instagram" width="22px" src="images/instagram.svg" />](https://instagram.com/assenzostefano)
+[<img align="left" alt="Twitter" width="22px" src="images/twitter.svg" />](https://twitter.com/Stef58_)
 
-[retninet]: https://github.com/assenzostefano/retninet
+**👀 My Github Stat's**
 
+![Stefano Assenzo github stats](https://github-readme-stats.vercel.app/api?username=assenzostefano)
