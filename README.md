@@ -14,6 +14,7 @@
 [<img align="left" alt="Email" width="22px" src="images/email.svg" />](https://mailhide.io/e/mFtWxPfo)
 [<img align="left" alt="Instagram" width="22px" src="images/instagram.svg" />](https://instagram.com/assenzostefano)
 [<img align="left" alt="Twitter" width="22px" src="images/twitter.svg" />](https://twitter.com/Stef58_)
+<br>
 **👀 My Github Stat's**
 
 ![Stefano Assenzo github stats](https://github-readme-stats.vercel.app/api?username=assenzostefano)
