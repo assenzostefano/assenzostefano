@@ -46,4 +46,6 @@
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/assenzostefano)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/assenzo.stefano)
+[![twitter](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Stef58_)
+[![stackoverflow](https://img.shields.io/badge/StackOverFlow-E4405F?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19627491/asso)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:stef58a@gmail.com)
