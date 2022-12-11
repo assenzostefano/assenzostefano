@@ -29,7 +29,7 @@
 
 ![cpu](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![graphics-card](https://img.shields.io/badge/AMD-Radeon_RX_6500XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![os](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![os](https://img.shields.io/badge/archlinux-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![editor](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 📈 Stats
